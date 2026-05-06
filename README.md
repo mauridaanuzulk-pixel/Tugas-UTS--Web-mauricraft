@@ -1,7 +1,7 @@
-# MauriCraft - Katalog Buket & Keychain
+# MauriCraft - Handmade 
 Tugas Praktikum Pemrograman Web oleh Maurida Nuzul Khasanah (11240582).
 
 ## Fitur:
-- Login Admin
+- Login 
 - Kelola Produk (Tambah, Edit, Hapus)
 - Tampilan Katalog untuk User
